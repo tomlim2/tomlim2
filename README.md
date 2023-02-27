@@ -1,4 +1,4 @@
-## Tech Stacks
-### Front-end
+## Technical Artist
+Having fun with glsl these days
 
-`Vue`, `Vuex`, `Typescript`, `ThreeJs`, `Scss`, `html`, `css`
+I was front-end, ux engineer, and motion designer.
