@@ -1,1 +1,1 @@
-threejs, vuejs, nextjs, reactjs, glsl, python, javascript, typescript, html, css/scss
+phyton, threejs, vuejs, nextjs, reactjs, glsl, python, javascript, typescript, html, css/scss
