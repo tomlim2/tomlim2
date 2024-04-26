@@ -1,1 +1,1 @@
-threejs, vuejs, nextjs, reactjs, glsl, python, javascript, typescript, html, css/scss
+python, glsl, javascript, typescript, threejs, vuejs, nextjs, reactjs, html, css/scss
