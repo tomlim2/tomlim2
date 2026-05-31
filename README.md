@@ -20,5 +20,3 @@ I make character and rendering tools for real-time pipelines. Most of my work si
 **I like**
 
 Unreal C++ · Python · HLSL/GLSL · TypeScript · Rust · Three.js · Bevy
-
-[Portfolio](https://ta.tommlimm.net)
